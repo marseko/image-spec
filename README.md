@@ -103,10 +103,6 @@ Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
 San Francisco, CA 94110 USA
 
 Everyone is permitted to copy and distribute verbatim copies of this
-license document, but changing it is not allowed.
-
-
-Developer's Certificate of Origin 1.1
 
 By making a contribution to this project, I certify that:
 
